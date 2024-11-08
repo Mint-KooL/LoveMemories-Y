@@ -28,10 +28,6 @@ const images = [
     'images/Luv23.jpg',
     'images/Luv24.jpg',
     'images/LuvM1.jpg',
-    'images/LuvM2.jpg',
-    'images/LuvM3.jpg',
-    'images/LuvM4.jpg',
-    'images/LuvM5.jpg',
 ];
 
 let currentImageIndex = 0;
